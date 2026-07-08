@@ -17,7 +17,7 @@
 
 🎯 Currently
 
-Building projects to become a Web Developer.
+Currently building web applications with Python while expanding my knowledge every day.
 
 Future goal:
 Cybersecurity 🔐
